@@ -1,7 +1,7 @@
 <h1>Hi, I'm Steven! <br/><a>IT Security Technician</a>
 
 <h2>👨‍💻 Certifications:</h2>
--  [Credly](www.credly.com/users/steven-xu.41e79b98/badges/credly)
+-  [Credly](credly.com/users/steven-xu.41e79b98/badges/credly)
 
 <h2>💻 Cybersecurity Projects:</h2>
 
