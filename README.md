@@ -5,6 +5,10 @@
 - <b>Credly Link:</b> 
   - www.credly.com/users/steven-xu.41e79b98/badges/credly
 
+<h2>💻 Cybersecurity Projects:</h2>
+
+-  [Vulnerability Management Lab with Tenable & Azure](https://github.com/Stevenxu14/VulnerabilityManagementLabwithTenableAzure)
+ 
 <h2>📺 hehe</h2>
 
 - [WOT](https://www.youtube.com/watch?v=a83ASGn_V_s)
