@@ -1,16 +1,16 @@
 <h1>Hi, I'm Steven! <br/><a>IT Security Technician</a>
 
+
 <h2>👨‍💻 Certifications:</h2>
--  [Credly](credly.com/users/steven-xu.41e79b98/badges/credly)
+
+- Cisco Networking Academy
+- Fortinet NSE 1-3: Cybersecurity 
+- [Credly](credly.com/users/steven-xu.41e79b98/badges/credly)
 
 <h2>💻 Cybersecurity Projects:</h2>
 
 -  [Vulnerability Management Lab with Tenable & Azure](https://github.com/Stevenxu14/VulnerabilityManagementLabwithTenableAzure)
 -  [Azure Honeypot & Sentinel SIEM Lab (Attack Map & KQL)](https://github.com/Stevenxu14/AzureHoneypotSentinelSIEMLab-AttackMapKQL-)
-
-<h2>📺 hehe</h2>
-
-- [WOT](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
 <h2> 🤳 Connect with me:</h2>
 
