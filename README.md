@@ -5,7 +5,7 @@
 
 - Cisco Networking Academy
 - Fortinet NSE 1-3: Cybersecurity 
-- [Credly](credly.com/users/steven-xu.41e79b98/badges/credly)
+- [Credly](https://www.credly.com/users/steven-xu.41e79b98)
 
 <h2>💻 Cybersecurity Projects:</h2>
 
