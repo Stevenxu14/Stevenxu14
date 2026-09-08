@@ -11,6 +11,7 @@
 
 -  [Vulnerability Management Lab with Tenable & Azure](https://github.com/Stevenxu14/VulnerabilityManagementLabwithTenableAzure)
 -  [Azure Honeypot & Sentinel SIEM Lab (Attack Map & KQL)](https://github.com/Stevenxu14/AzureHoneypotSentinelSIEMLab-AttackMapKQL-)
+-  [Autonomous SOC AI Agent: Natural Language Threat Hunting, KQL Generation & Automated Endpoint Containment)](https://github.com/Stevenxu14/AgenticAIThreatHunter-AutomatedResponseEngine)
 
 <h2> 🤳 Connect with me:</h2>
 
